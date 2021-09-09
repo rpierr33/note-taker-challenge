@@ -90,9 +90,8 @@ for (let i = 0; i < dbJson.length; i++) {
 });
 
 
-// sequelize.sync({force: false}).then(() => {
     app.listen(PORT, () => {
         console.log(`API server now on port ${PORT}!`)
     });
-// })
+
 
