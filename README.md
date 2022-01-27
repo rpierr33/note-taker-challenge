@@ -47,5 +47,9 @@ Simple Note-Taking App Using Node.js and Express.js
 
 ## Questions
 My Github username is rpierr33, and can be accessed here https://github.com/rpierr33
-<a href="https://ralph-note-taker-challenge.herokuapp.com/notes"> Deployed app </a>
+<br>
+Deployed app
+<br>
+<a href="https://ralph-note-taker-challenge.herokuapp.com/notes">  </a>
+<br>
 You can reach me at mrralphpierre@gmail.com if you have any additional questions.
