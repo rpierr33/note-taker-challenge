@@ -50,6 +50,6 @@ My Github username is rpierr33, and can be accessed here https://github.com/rpie
 <br>
 Deployed app
 <br>
-<a href="https://ralph-note-taker-challenge.herokuapp.com/notes">  </a>
+<a href="https://ralph-note-taker-challenge.herokuapp.com/notes"></a>
 <br>
 You can reach me at mrralphpierre@gmail.com if you have any additional questions.
